@@ -1,3 +1,3 @@
 <?php
 
-echo("Learn php the right way")
+echo("Learn php the right way");

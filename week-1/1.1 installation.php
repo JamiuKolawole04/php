@@ -1,2 +1,2 @@
 <?php
- echo("Installation and web server")
+ echo("Installation and web server");
