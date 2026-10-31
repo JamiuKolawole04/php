@@ -19,6 +19,7 @@ function calculateTax(float $amount, float $rate = 0.15): float
 }
 
 
+
 function formatCurrency(float $amount, string $currency = 'USD'): string
 {
     $currency = strtoupper(trim($currency));
