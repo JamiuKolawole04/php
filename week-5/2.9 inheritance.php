@@ -1,9 +1,9 @@
 <?php
 class Fruit {
-  public $name;
-  public $color;
+  public string $name;
+  public string $color;
   
-  public function __construct($name, $color) {
+  public function __construct(string $name, string $color) {
     $this->name = $name;
     $this->color = $color; 
   }
